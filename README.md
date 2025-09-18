@@ -32,7 +32,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 1.  **Repository'yi Klonlayın:**
     ```bash
-    git clone [https://github.com/emregergin/gym-crowdness-prediction](https://github.com/emregergin/gym-crowdness-prediction)
+    git clone https://github.com/emregergin/gym-crowdness-prediction
     cd gym-crowdness-prediction
     ```
 
